@@ -1,0 +1,5 @@
+id,user_id,food_id,status,address,total_price
+order_675f378bbc712,1,1734242350,Delivered,abcd,123
+order_675f39a12e202,1,1734293891,Delivered,abc,1500
+order_675f3b8239240,2,1734294359,Delivered,123,12
+order_67619648afd7f,1,1734448690,Delivered,abc,12

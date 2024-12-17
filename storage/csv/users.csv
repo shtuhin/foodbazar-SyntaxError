@@ -1,0 +1,5 @@
+id,name,email,address,contact,password
+1,"User One",user1@example.com,"123 Address",9876543210,hashedpassword
+2,"User Two",user2@example.com,"456 Address",0123456789,hashedpassword
+3,cc,mm@gmail.com,gghhg,11111111111,$2y$12$xeeRK7BQrPDYn3IwWnMTqupfeWuiT5Ht2t93Kre.ZldB2FIEGwTla
+4,Tuhin,tt@gmail.com,abc,11111111111111,$2y$12$XPIRPQITeIyFkNJJu8M5gefEKzFKzW9fvk1VOIA489erPSAWLDyv2
